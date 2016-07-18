@@ -1,0 +1,8 @@
+main: me.ghotimayo.eventqueue.EventQueue
+version: 1.0
+name: EventQueue
+descripion: Temporary warp system for player events!
+author: Ghoti_Mayo
+commands:
+  Event:
+    description: EventQueue's base command
