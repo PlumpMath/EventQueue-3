@@ -1,5 +1,5 @@
 main: me.ghotimayo.eventqueue.EventQueue
-version: 1.0
+version: 1.3
 name: EventQueue
 descripion: Temporary warp system for player events!
 author: Ghoti_Mayo
